@@ -296,6 +296,5 @@ See the [exporter-toolkit https package](https://github.com/prometheus/exporter-
 [goreportcard]: https://goreportcard.com/report/github.com/prometheus/node_exporter
 
 
-
-经过定制化的node_exporter 不建议外部使用.
---consul.address 0.0.0.0:8500 直接在命令行启动参数带上这个即可 改成consul地址
+## 20220124 244776516@qq.com
+经过定制化的node_exporter  --consul.address 0.0.0.0:8500 直接在命令行启动参数带上这个即可 改成consul地址.可以应用在prometheus全家桶上。完成一些service-dis无聊的操作
