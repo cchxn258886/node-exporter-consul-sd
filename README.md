@@ -1,3 +1,7 @@
+20220124 244776516@qq.com
+经过定制化的node_exporter --consul.address 0.0.0.0:8500 直接在命令行启动参数带上这个即可 改成consul地址.可以应用在prometheus全家桶上。完成一些service-dis无聊的操作
+
+
 # Node exporter
 
 [![CircleCI](https://circleci.com/gh/prometheus/node_exporter/tree/master.svg?style=shield)][circleci]
